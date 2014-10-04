@@ -1,0 +1,11 @@
+<package>
+  <description brief="acutrol">
+     Allows control of Acutronics rate tables, specifically the AC117
+  </description>
+  <author>Michael Dawson-Haggerty</author>
+  <depend package="rospy"/>
+  <depend package="sensor_msgs"/>
+  <depend package="std_srvs"/>
+</package>
+
+

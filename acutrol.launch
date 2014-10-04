@@ -1,0 +1,3 @@
+<launch>
+  <node name="acutrol_node" pkg="acutrol" type="acutrol_ros.py"/>
+</launch>

@@ -1,0 +1,1 @@
+{"startup": [[":utility:lockout on", "OK"], [":interlock:open 1", "OK"], [":interlock:reset 1", "OK"], [":interlock:close 1", "OK"]], "shutdown": [[":mode:off 1", "OK"], [":interlock:open 1", "OK"]]}
